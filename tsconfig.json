@@ -27,7 +27,8 @@
       "./test"
     ],
     "experimentalDecorators": true,
-    "emitDecoratorMetadata": true
+    "emitDecoratorMetadata": true,
+    "locale": "pt-BR"
   },
   "include": [
     "./src/**/*.ts",
